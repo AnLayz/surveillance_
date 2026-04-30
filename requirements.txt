@@ -1,0 +1,19 @@
+# Web framework
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+
+# Database
+sqlalchemy==2.0.30
+asyncpg==0.29.0          # async PostgreSQL driver
+alembic==1.13.1          # migrations
+
+# Settings
+pydantic-settings==2.2.1
+
+# Computer Vision
+ultralytics==8.2.18      # YOLOv8
+opencv-python==4.9.0.80
+numpy==1.26.4
+
+# Utilities
+python-dotenv==1.0.1

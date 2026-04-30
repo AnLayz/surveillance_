@@ -1,0 +1,16 @@
+{
+  "camera_id": 1,
+  "zones": [
+    {
+      "id": "zone_1",
+      "name": "Restricted Entry",
+      "type": "restricted",
+      "coordinates": {
+        "x": 320,
+        "y": 0,
+        "width": 320,
+        "height": 480
+      }
+    }
+  ]
+}
